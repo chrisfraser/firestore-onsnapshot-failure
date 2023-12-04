@@ -15,7 +15,7 @@
     "@pm2/io": "^4.3.3",
     "dotenv": "^8.2.0",
     "firebase-admin": "8.13.0",
-    "@google-cloud/firestore": "3.8.6",
+    "@google-cloud/firestore": "6.2.0",
     "fs-extra": "^9.0.0",
     "os-utils": "0.0.14",
     "request": "^2.88.2",
